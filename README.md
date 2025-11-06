@@ -1,4 +1,4 @@
-# Simple Shell for GHDL GTKWave
+# Simple Shell for GHDL + GTKWave
 Lightweight PyQt5 interface for running VHDL simulations using GHDL and viewing waveforms in GTKWave.  
 Designed for students and lab work.
 
